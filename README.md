@@ -1,5 +1,5 @@
 # Translating From ORMs to Active Record
-
+cc
 ## Learning Goals
 
 - Understand how Active Record abstracts powerful methods for you
